@@ -1,0 +1,10 @@
+{
+  "name": "Extensions",
+  "version": "1",
+  "description": "Extensions",
+  "main": "1",
+  "repository": "https://github.com/Madhuri01/tableau-extensions",
+  "author": "Madhuri",
+  "license": "1",
+  "private": true
+}
