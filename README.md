@@ -1,2 +1,2 @@
-# Tableau Data Extensions
-My first Tableau Data extensions
+# Tableau Extensions
+Tableau extensions
